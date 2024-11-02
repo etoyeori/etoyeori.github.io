@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://etoyeori.github.io/bEn/sitemap_index.txt
+Sitemap: https://etoyeori.github.io/jIe/sitemap_index.txt
+Sitemap: https://etoyeori.github.io/pso/sitemap_index.txt
+Sitemap: https://etoyeori.github.io/pyU/sitemap_index.txt
